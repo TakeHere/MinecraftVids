@@ -1,0 +1,4 @@
+name: MinecraftVids
+version: '${project.version}'
+main: fr.takehere.minecraftvids.minecraftvids.MinecraftVids
+api-version: 1.17

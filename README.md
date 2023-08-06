@@ -1,2 +1,3 @@
 # MinecraftVids
-A PaperMC Experimental plugin to display images with particles
+
+[⚠️] A PaperMC Experimental plugin to display videos with particles
